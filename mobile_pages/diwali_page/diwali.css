@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.diwali-top-section{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    width: 43vw;
+    background-size: cover;
+}
+.diwali-top-section-heading{
+    color: white;
+    font-size: 38px;
+    font-family: "Caveat";
+    width:220px;
+    padding: 30px;
+    font-weight: bolder;
+    
+}
+.diwali-bottom-section{
+    background-color: #e6f6ff;
+    width: 43vw;
+    padding: 10px;
+    text-align: center;
+    padding: 25px;
+    
+}
+.mcard{
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    width: 120px;
+    height: 130px;
+    margin: 20px;
+
+}
+.mcard-image{
+    height: 70px;
+    width: 70px;
+    padding: 15px;
+
+
+}
+.mcard-name{
+    font-family: 'Roboto';
+    color: #616e7c;
+    font-size: 12px;
+    font-weight: normal;
+    border: 5px;
+    
+
+
+}
+.mcard-price{
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size:16px;
+    font-weight: 500px;
+
+}
+
+button:hover{
+    color: black;
+    cursor: default;
+    background-color: blue;
+}
